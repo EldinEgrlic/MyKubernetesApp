@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H5FLqT2MewVVQrmIJo9HyHq7qriZGXi1LbDi+eo+R6RovlMNMGqra7KP3XS+eauPZuZMnvOVBxKGD4wzFxU1EQ==",
+  "dgSpecHash": "nehL2w1A7mOsMe2wExDIyCDSRR7ep1v0t5uMUDSQ2Pm+nMCUqW5shAPDW3ypev/8Bjj3j1/Hb0pqoDs3ToBVpQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Eldin\\source\\repos\\MyKubernetesApp\\MyKubernetesApp\\MyKubernetesApp.csproj",
+  "projectFilePath": "D:\\MyKubernetesApp\\App\\MyKubernetesApp\\MyKubernetesApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Eldin\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512"
   ],

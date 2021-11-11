@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Eldin\\source\\repos\\MyKubernetesApp\\MyKubernetesApp\\MyKubernetesApp.csproj": {}
+    "D:\\MyKubernetesApp\\App\\MyKubernetesApp\\MyKubernetesApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Eldin\\source\\repos\\MyKubernetesApp\\MyKubernetesApp\\MyKubernetesApp.csproj": {
+    "D:\\MyKubernetesApp\\App\\MyKubernetesApp\\MyKubernetesApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Eldin\\source\\repos\\MyKubernetesApp\\MyKubernetesApp\\MyKubernetesApp.csproj",
+        "projectUniqueName": "D:\\MyKubernetesApp\\App\\MyKubernetesApp\\MyKubernetesApp.csproj",
         "projectName": "MyKubernetesApp",
-        "projectPath": "C:\\Users\\Eldin\\source\\repos\\MyKubernetesApp\\MyKubernetesApp\\MyKubernetesApp.csproj",
+        "projectPath": "D:\\MyKubernetesApp\\App\\MyKubernetesApp\\MyKubernetesApp.csproj",
         "packagesPath": "C:\\Users\\Eldin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Eldin\\source\\repos\\MyKubernetesApp\\MyKubernetesApp\\obj\\",
+        "outputPath": "D:\\MyKubernetesApp\\App\\MyKubernetesApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
